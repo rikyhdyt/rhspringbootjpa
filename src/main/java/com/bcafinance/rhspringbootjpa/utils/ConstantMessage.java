@@ -77,4 +77,22 @@ public class ConstantMessage {
     //brand
 //    public final static String WARNING_BR_NAME_MANDATORY = "NAMA MEREK/BRAND WAJIB DIISI";
 //    public final static String WARNING_BR_FROM_MANDATORY = "ASAL NEGARA MEREK WAJIB DIISI";
+
+    //csv
+    public final static String CONTENT_TYPE_CSV = "text/csv";
+    public final static String ERROR_NOT_CSV_FILE = "FORMAT FILE HARUS CSV ";
+    public final static String ERROR_UPLOAD_CSV = "UPLOAD FILE GAGAL ";
+
+    //rent
+    public final static String WARNING_DATA_MANDATORY = "SEMUA DATA WAJIB DIISI";
+    public final static String WARNING_DATA_MAX_LENGTH = "DATA TERLALU PANJANG";
+
+    //rekening
+    public final static String WARNING_REK_EXIST = "REKENING SUDAH TERDAFTAR";
+    public final static String WARNING_REK_SUMBER_NOT_EXIST = "REKENING SUMBER TIDAK TERDAFTAR";
+    public final static String SUCCESS_CEK_BY = "SALDO MENCUKUPI";
+    public final static String WARNING_CEK_FAILED = "SALDO TIDAK MENCUKUPI";
+    public final static String WARNING_REK_PENERIMA_NOT_EXIST = "REKENING PENERIMA TIDAK TERDAFTAR";
+    public final static String WARNING_FAIL_TRANSACTION = "TRANSAKSI GAGAL";
+    public final static String SUCCESS_TRANSFER = "TRANSFER BERHASIL";
 }
