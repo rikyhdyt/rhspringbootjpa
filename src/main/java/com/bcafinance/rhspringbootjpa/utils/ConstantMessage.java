@@ -95,4 +95,10 @@ public class ConstantMessage {
     public final static String WARNING_REK_PENERIMA_NOT_EXIST = "REKENING PENERIMA TIDAK TERDAFTAR";
     public final static String WARNING_FAIL_TRANSACTION = "TRANSAKSI GAGAL";
     public final static String SUCCESS_TRANSFER = "TRANSFER BERHASIL";
+
+    //ujian
+    public final static String ERROR_TIDAK_BOLEH_KOSONG_VAR_1 = "VAR 1 HARUS DIISI";
+    public final static String ERROR_TIDAK_BOLEH_KOSONG_VAR_2 = "VAR 2 HARUS DIISI";
+    public final static String ERROR_TIDAK_BOLEH_KOSONG_VAR_3 = "VAR 3 HARUS DIISI";
+
 }
